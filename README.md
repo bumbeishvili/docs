@@ -35,7 +35,25 @@ Useful info which helps with productivity
           </td> 
        <td>toggles explorer </td>
     </tr>
+    <tr>
+      <td colspan=2>
+           <a href="https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.json2ts">Extensions - Json2ts</a>
+      </td>
+    </tr>
+    <tr>
+      <td >
+          <tr>
+          <td>
+           <b><code>cmd+alt+v</code></b>
+          </td> 
+       <td>pastes copied json as  typescript interface</td>
+    </tr>
+          <t
+      </td>
+    </tr>
 </table>
+
+
 
 ### VS Extensions
 <table>
@@ -49,6 +67,4 @@ Useful info which helps with productivity
           </td> 
        <td>Imports classes as you type </td>
     </tr>
-    
-
 </table>
