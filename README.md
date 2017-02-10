@@ -23,34 +23,33 @@ Useful info which helps with productivity
        <th>key</th> 
        <th>desc</th>
     </tr>
-      <tr>
+    
+     <tr>
           <td>
            <b><code>cmd+shift+c</code></b>
           </td> 
        <td>opens terminal in current directory </td>
     </tr>
-          <tr>
+    
+    <tr>
           <td>
            <b><code>cmd+b</code></b>
           </td> 
        <td>toggles explorer </td>
     </tr>
+    
     <tr>
       <td colspan=2>
            <a href="https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.json2ts">Extensions - Json2ts</a>
       </td>
     </tr>
+    
     <tr>
-      <td >
-          <tr>
           <td>
            <b><code>cmd+alt+v</code></b>
           </td> 
        <td>pastes copied json as  typescript interface</td>
-    </tr>
-          <t
-      </td>
-    </tr>
+     </tr>
 </table>
 
 
