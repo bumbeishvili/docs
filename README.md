@@ -37,6 +37,13 @@ Useful info which helps with productivity
           </td> 
        <td>toggles explorer </td>
     </tr>
+       
+    <tr>
+          <td>
+           <b><code>cmd+p</code></b>
+          </td> 
+       <td>search files and words </td>
+    </tr>
     
     <tr>
       <td colspan=2>
